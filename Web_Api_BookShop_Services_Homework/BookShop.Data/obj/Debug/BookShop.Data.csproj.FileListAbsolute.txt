@@ -1,0 +1,17 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\BookShop.Data.dll.config
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\BookShop.Data.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\BookShop.Data.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\BookShop.Models.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\BookShop.Models.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\obj\Debug\BookShop.Data.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\obj\Debug\BookShop.Data.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\obj\Debug\BookShop.Data.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\obj\Debug\BookShop.Data.Migrations.InitialCreate.resources
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Data\obj\Debug\BookShop.Data.csproj.GenerateResource.Cache

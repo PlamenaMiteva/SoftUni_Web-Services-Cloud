@@ -1,0 +1,17 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\BookShop.Client.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\BookShop.Client.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\BookShop.Client.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\BookShop.Data.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\BookShop.Models.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\BookShop.Models.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\BookShop.Data.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\obj\Debug\BookShop.Client.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\obj\Debug\BookShop.Client.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\obj\Debug\BookShop.Client.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Client\bin\Debug\Microsoft.AspNet.Identity.Core.xml

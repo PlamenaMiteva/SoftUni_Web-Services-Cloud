@@ -1,0 +1,13 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\BookShop.Models.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\BookShop.Models.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\obj\Debug\BookShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\obj\Debug\BookShop.Models.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\obj\Debug\BookShop.Models.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\BookShop.Models.dll.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Web_Api_Homework\BookShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
