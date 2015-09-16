@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\02. Distance Calculator Client\bin\Debug\_02.Distance_Calculator_Client.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\02. Distance Calculator Client\bin\Debug\_02.Distance_Calculator_Client.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\02. Distance Calculator Client\bin\Debug\_02.Distance_Calculator_Client.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\02. Distance Calculator Client\obj\Debug\02. Distance Calculator Client.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\02. Distance Calculator Client\obj\Debug\_02.Distance_Calculator_Client.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\02. Distance Calculator Client\obj\Debug\_02.Distance_Calculator_Client.pdb

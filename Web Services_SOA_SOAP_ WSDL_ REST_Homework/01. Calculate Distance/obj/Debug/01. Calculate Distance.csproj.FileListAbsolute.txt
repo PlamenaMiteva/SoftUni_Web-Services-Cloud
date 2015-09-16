@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\01. Calculate Distance\bin\_01.Calculate_Distance.dll.config
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\01. Calculate Distance\bin\_01.Calculate_Distance.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\01. Calculate Distance\bin\_01.Calculate_Distance.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\01. Calculate Distance\obj\Debug\_01.Calculate_Distance.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\01. Calculate Distance\obj\Debug\_01.Calculate_Distance.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Web Services Homework\01. Calculate Distance\obj\Debug\01. Calculate Distance.csprojResolveAssemblyReference.cache
