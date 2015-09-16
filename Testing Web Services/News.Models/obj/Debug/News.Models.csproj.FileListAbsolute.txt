@@ -1,0 +1,13 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\News.Models.dll.config
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\News.Models.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\News.Models.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\obj\Debug\News.Models.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Models\obj\Debug\News.Models.pdb

@@ -1,0 +1,22 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\News.Repositories.Tests.dll.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\News.Repositories.Tests.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\News.Repositories.Tests.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\News.Data.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\News.Models.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\News.Repositories.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\News.Data.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\News.Models.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\News.Repositories.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\obj\Debug\02. News.Repositories.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\obj\Debug\News.Repositories.Tests.dll
+C:\Users\Plamena\documents\visual studio 2013\Projects\Testing Web Services\News.Repositories.Tests\obj\Debug\News.Repositories.Tests.pdb
