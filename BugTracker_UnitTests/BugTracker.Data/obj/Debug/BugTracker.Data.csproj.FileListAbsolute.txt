@@ -1,0 +1,26 @@
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\obj\Debug\BugTracker.Data.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\BugTracker.Data.dll
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\BugTracker.Data.pdb
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\obj\Debug\BugTracker.Data.dll
+C:\Users\Plamena\Desktop\BugTracker\BugTracker.Data\obj\Debug\BugTracker.Data.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\BugTracker.Data.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\BugTracker.Data.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\obj\Debug\BugTracker.Data.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\obj\Debug\BugTracker.Data.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BugTracker_UnitTests\BugTracker.Data\obj\Debug\BugTracker.Data.pdb

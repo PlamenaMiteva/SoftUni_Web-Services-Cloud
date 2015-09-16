@@ -1,0 +1,13 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\BidSystem.Data.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\BidSystem.Data.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\obj\Debug\BidSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\obj\Debug\BidSystem.Data.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\BidSystem\BidSystem.Data\obj\Debug\BidSystem.Data.pdb
