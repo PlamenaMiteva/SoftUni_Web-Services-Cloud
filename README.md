@@ -1,1 +1,1 @@
-SoftUni_Web-Services-Cloud_Homework_Assignments
+SoftUni_Web_Services_Cloud_Homework_Assignments
