@@ -1,0 +1,14 @@
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\Restaurants.Models.dll.config
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\Restaurants.Models.dll
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\Restaurants.Models.pdb
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\obj\Debug\Restaurants.Models.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\obj\Debug\Restaurants.Models.dll
+C:\Users\Plamena\Desktop\Skeleton\Restaurants.Models\obj\Debug\Restaurants.Models.pdb
