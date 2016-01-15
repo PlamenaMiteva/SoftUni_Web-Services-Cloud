@@ -1,0 +1,16 @@
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\CriminalActivities.Data.dll.config
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\CriminalActivities.Data.dll
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\CriminalActivities.Data.pdb
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\CriminalActivities.Models.dll
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\EntityFramework.dll
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\CriminalActivities.Models.pdb
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\EntityFramework.xml
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\obj\Debug\CriminalActivities.Data.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\obj\Debug\CriminalActivities.Data.dll
+C:\Users\Plamena\Desktop\CriminalActivities\CriminalActivities.Data\obj\Debug\CriminalActivities.Data.pdb
